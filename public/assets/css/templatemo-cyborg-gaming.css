@@ -772,6 +772,39 @@ Banner Style
 --------------------------------------------- 
 */
 
+.main-banner-sukses {
+  background-image: url(../images/banner-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 380px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.main-banner-sukses h6 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+.main-banner-sukses h4 {
+  font-size: 45px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.main-banner-sukses h4 em {
+  font-style: normal;
+  color: #ec6090;
+}
+
+/* 
+---------------------------------------------
+Banner Style
+--------------------------------------------- 
+*/
+
 .main-banner {
   background-image: url(../images/banner-bg2.jpg);
   background-position: center center;
@@ -795,6 +828,39 @@ Banner Style
 }
 
 .main-banner h4 em {
+  font-style: normal;
+  color: #ec6090;
+}
+
+/* 
+---------------------------------------------
+Banner 404 Not Found Style
+--------------------------------------------- 
+*/
+
+.notfound-banner {
+  background-image: url(../images/banner-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 380px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.notfound-banner h6 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+.notfound-banner h4 {
+  font-size: 45px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.notfound-banner h4 em {
   font-style: normal;
   color: #ec6090;
 }
