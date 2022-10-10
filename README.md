@@ -8,7 +8,7 @@
 
     ![home](./src/images/barkley_home.png)
 
-- __Products' page__
+- __Product page__
 
     ![products](./src/images/barkley_product.png)
 
